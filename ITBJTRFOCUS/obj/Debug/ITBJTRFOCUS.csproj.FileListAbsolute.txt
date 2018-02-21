@@ -1,0 +1,9 @@
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\bin\Debug\ITBJTRFOCUS.exe.config
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Debug\ITBJTRFOCUS.WAPP.resources
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Debug\ITBJTRFOCUS.Properties.Resources.resources
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Debug\ITBJTRFOCUS.csproj.GenerateResource.Cache
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\bin\Debug\ITBJTRFOCUS.exe
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\bin\Debug\ITBJTRFOCUS.pdb
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Debug\ITBJTRFOCUS.Form2.resources
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Debug\ITBJTRFOCUS.exe
+c:\users\wilchan\documents\visual studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Debug\ITBJTRFOCUS.pdb

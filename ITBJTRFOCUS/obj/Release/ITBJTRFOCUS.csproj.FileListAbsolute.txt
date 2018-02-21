@@ -1,0 +1,10 @@
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\bin\Release\ITBJTRFOCUS.exe.config
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\bin\Release\ITBJTRFOCUS.exe
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\bin\Release\ITBJTRFOCUS.pdb
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.WAPP.resources
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.Form2.resources
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.Properties.Resources.resources
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.csproj.GenerateResource.Cache
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.exe
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.pdb
+C:\Users\wilchan\Documents\Visual Studio 2015\Projects\ITBJTRFOCUS\ITBJTRFOCUS\obj\Release\ITBJTRFOCUS.csprojResolveAssemblyReference.cache
